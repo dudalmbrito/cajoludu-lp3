@@ -1,4 +1,4 @@
-# cajoludu-lp3
+# Cajoludu-LP3
 
 # Sobre o Projeto
 
@@ -6,13 +6,16 @@ Cajoludu é uma aplicação criada na matéria Linguagem de Programação 3 como
 
 A aplicação consiste na criação de um sistema de cadastro e login a partir da linguagem C#, usando o banco de dados MDF além do consumo da api GoogleBooks que retorna uma lista livros e o usuário pode ver essa lista, Favorita livros e ver uma lista de livros favoritos através da interface de usuário.
 
-# Tecnologias usadas
-1-Visual Studio.
-2-MDF.
-3-GoogleBooks.
+# Tecnologias utilizadas
+1- Visual Studio
 
-## linguagem 
-1- C#
+2- MDF
+
+3- GoogleBooks
+
+# Linguagens 
+1- C#	
+
 2- SQL
 
 # Como executar o projeto
