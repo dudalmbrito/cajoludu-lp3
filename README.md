@@ -26,11 +26,11 @@ git clone https://github.com/dudalmbrito/cajoludu-lp3
 
 2- Abrir a aplicação no Visual Studio.
 
-3- Habilite a depuração e Execulte.
+3- Habilite a depuração e Execute.
 
-4- 
+4- Faça o cadastro e o login.
 
-5- 
+5- A partir disso poderá fazer a busca de livros, adicionar os favoritos e se assim desejar, alterar os dados da conta.
 
 
 # Autores 
